@@ -2,7 +2,7 @@
 This repo is for our Findings of IJCNLP-AACL 2025 paper "CLL-RetICL: Contrastive Linguistic Label Retrieval-based In-Context Learning for Text Classification via Large Language Models".
 
 ## Dataset
-Please download the SST2 dataset from [1], CoLA dataset from [2], CARER dataset from [3], and BBCnews dataset from [4]. Access the complete speaker embedding described in this paper through the following link [https://huggingface.co/datasets/toby28/Deep_Speaker_Embeddings](https://huggingface.co/datasets/toby28/Deep_Speaker_Embeddings).
+Please download the SST2 dataset from [1], CoLA dataset from [2], CARER dataset from [3], and BBCnews dataset from [4]. 
 
 ## CLL-RetICL Structure
 
