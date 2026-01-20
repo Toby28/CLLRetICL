@@ -6,7 +6,7 @@ Please download the SST2 dataset from [1], CoLA dataset from [2], CARER dataset 
 
 ## CLL-RetICL Structure
 <p align="center">
-  <img src="img/fig11.png" width="500" style="margin-right: 20px;">
+  <img src="img/fig11.png" width="400" style="margin-right: 20px;">
   <img src="img/fig2.png" width="500">
 </p>
 
