@@ -12,8 +12,15 @@ Please download the SST2 dataset from [1], CoLA dataset from [2], CARER dataset 
 
 ## CLL-RetICL Performance
 ![Demo](img/table1.png)
-![Demo](img/table2.png)
-![Demo](img/table3.png)
+
+<p align="center">
+  <img src="img/table2.png" width="300">
+</p>
+
+<p align="center">
+  <img src="img/table3.png" width="300">
+</p>
+
 
 ## Citation
 [1] Socher, R., Perelygin, A., Wu, J., Chuang, J., Manning, C. D., Ng, A. Y., & Potts, C. (2013, October). Recursive deep models for semantic compositionality over a sentiment treebank. In Proceedings of the 2013 conference on empirical methods in natural language processing (pp. 1631-1642).
