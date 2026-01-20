@@ -23,5 +23,11 @@ Please download the SST2 dataset from [1], CoLA dataset from [2], CARER dataset 
 
 If this repo is useful for you, please consider citing our paper:
 ```
-
+@inproceedings{lin2025cll,
+  title={CLL-RetICL: Contrastive Linguistic Label Retrieval-based In-Context Learning for Text Classification via Large Language Models},
+  author={Lin, Chaohao and Wu, Kaida and Xiang, Peihao and Wu, Yanzhao and Bai, Ou},
+  booktitle={Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics},
+  pages={1575--1590},
+  year={2025}
+}
 ```
