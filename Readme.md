@@ -14,10 +14,7 @@ Please download the SST2 dataset from [1], CoLA dataset from [2], CARER dataset 
 ![Demo](img/table1.png)
 
 <p align="center">
-  <img src="img/table2.png" width="500">
-</p>
-
-<p align="center">
+  <img src="img/table2.png" width="500" style="margin-right: 20px;">
   <img src="img/table3.png" width="500">
 </p>
 
